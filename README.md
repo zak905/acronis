@@ -5,7 +5,7 @@ You need to have go installed in your machine, and then you can simply run:
 
 `go run server/main.go` from a terminal and `go run client/main.go` from a different terminal.
 
-if you want to more options, you can run `go run client/main.go --help` 
+if you want more options, you can run `go run client/main.go --help` 
 
 # Instructions:
 
